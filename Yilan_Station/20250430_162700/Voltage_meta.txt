@@ -1,0 +1,28 @@
+Log name: 2025/04/30 16:27:00
+User: dyson
+Project name: C:\Users\湧森\Desktop\6210_Air-2025-04-30.seproj
+File name: C:\Users\湧森\Desktop\20250430_162700\Voltage.tdms
+File size: 24.9651MB
+Log duration: 12 days, 2 hours, 54 minutes, 38.8953 seconds
+Log dt (s): 333.333m
+Log iteration length (s): 1
+Number of sample in log: 3141837
+Log datatype: Time-WDT-Real
+Unit: mV
+Log start time: 2025/4/30 16:27:07.068
+Time zone: 台北標準時間
+Writer name: SignalExpress 2015
+Writer version: 15.0
+File format version: 2.1
+Log signal names:
+     2025/04/30 16:27:00 - Voltage - Dev1_ai0
+
+
+Alarms:
+None
+
+Start conditions:
+None
+
+Stop conditions:
+None
