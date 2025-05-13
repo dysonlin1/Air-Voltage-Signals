@@ -1,6 +1,5 @@
 # Air-Voltage-Signals
 
-Air-Voltage-Signals 儲存庫：
 包含多個地震預測站的空氣電壓訊號數據，用於地震預測。  
 
 資料夾結構：  
